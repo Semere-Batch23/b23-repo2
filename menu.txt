@@ -1,2 +1,6 @@
 coffee 2.99   150cal
 codonots 3.99   1500cal
+lunch menu:
+Steak
+Pasta
+
